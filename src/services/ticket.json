@@ -1,0 +1,40 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "ticket",
+      "title": "Compra",
+      "content": "<p>A Gipsyy oferece os melhores preços de empresas reguladas pela ANTT. Para comprar na Gipsyy, basta acessar nosso site, aplicativo ou whatsapp.</p><p>Na Gipsyy é possível pagar com PIX ou com cartão de crédito à vista ou parcelado.</p>"
+    },
+    {
+      "id": "2",
+      "type": "ticket",
+      "title": "Experiência de embarque",
+      "content": "<p>Uma vez confirmada a sua compra, você receberá um email com as instruções. Algumas de nossas parceiras trabalham com voucher e outras você já recebe o bilhete. No momento da compra e na finalização da compra nós sinalizamos para você se precisa ou não ir até o guichê da parceira. Se você precisa ir até o guichê da parceira é porque recebeu um voucher. Se você não precisa ir até o guichê da parceira, você recebeu um bilhete.</p><p>Abaixo, você pode ver por parceira como funciona.</p><span>Gipsyy, Real Expresso, Guanabara, Util, Sampaio, Brisa, Total, Motta</span><p>Após a confirmação da sua compra, você receberá um email de confirmação de compra com seus bilhetes eletrônicos.</p><p>Não há necessidade de realizar troca no guichê. Basta se apresentar com o documento anexo (seus bilhetes eletrônicos) e com documento de identidade uma hora antes da viagem no portão de embarque.</p><span>Eucatur</span><p>Assim que confirmada a sua compra, você receberá um e-mail com um voucher anexado. Este voucher deve ser trocado no guichê da parceria da Eucatur. Você deve se apresentar uma hora antes da viagem no guichê, com o voucher e um documento de identidade em mãos.</p><span>Gadotti</span><p>Assim que confirmada a sua compra, você receberá um e-mail de confirmação com as instruções. Se você comprou passagem saindo de Santa Catarina, terá que trocar o voucher no Guichê da parceira, uma hora antes da viagem, com documento de identidade e voucher em mãos. Se comprou passagem saindo de São Paulo, não é necessário passar no guichê. Basta se apresentar com seus bilhetes eletrônicos encaminhados por email e com documento de identidade uma hora antes da viagem no portão de embarque.</p>"
+    },
+    {
+      "id": "3",
+      "type": "ticket",
+      "title": "Gratuidades",
+      "content": "<p>Para comprar bilhetes que se encaixem na gratuidade (idosos, ID jovem, PNE), sugerimos que procure o site dos nossos parceiros.</p>"
+    },
+    {
+      "id": "4",
+      "type": "ticket",
+      "title": "Remarcação",
+      "content": "<p>Se você perdeu o horário de embarque ou já fez uma primeira remarcação da sua viagem, não é possível remarcar.</p><p>Se você não perdeu o horário de embarque e não remarcou sua viagem, é possível realizar a remarcação na Gipsyy. Não é possível trocar os dados do(s) passageiro(s) e o itinerário. Você pode alterar a classe e o horário da sua viagem.</p><p>Até 3h antes do embarque, não há multa, cobramos apenas a diferença de valor da passagem se for maior. Se a passagem tiver um valor menor, não fazemos reembolso da diferença. Fique atento aos valores cobrados e o valor original da passagem!</p><p>Com menos de 3h antes do embarque, há uma multa de 20%. Ao iniciar seu processo de remarcação, você irá visualizar ou será informado(a) sobre a possível multa e poderá decidir se quer ou não prosseguir com a remarcação.</p><p>Abaixo veja por onde fazer a remarcação da sua viagem.</p><span>Se você recebeu um bilhete assim que realizou a compra</span><p>Se você recebeu seus bilhetes, você não precisaria ir até o guichê da parceira para trocar por bilhete. Neste caso, você pode pode remarcar sua viagem tanto em nosso site ou app, quanto no atendimento Gipsyy WhatsApp 61 2106-7154, caso não tenha feito uma vez e caso não tenha perdido o horário de embarque.</p><p>Para saber se você recebeu um bilhete, verifique se você foi instruído a embarcar direto. Se a resposta é sim, você recebeu um bilhete.</p><span>Se você recebeu um voucher assim que realizou a compra e não trocou por um bilhete</span><p>Se você recebeu instruções para ir até o guichê de uma de nossas parceiras, você recebeu um voucher. Neste caso, faça a remarcação da sua viagem, caso não tenha perdido o horário de embarque, tanto no site quanto no atendimento Gipsyy WhatsApp 61 2106-7154.</p><span>Nossas empresas Eucatur e Gadotti trabalham com Voucher.</span><p>ATENÇÃO: Se sua viagem sai de alguma cidade de Santa Catarina e você não perdeu o horário de embarque, você deve procurar nosso atendimento Gipsyy WhatsApp 61 2106-7154, pois não é possível fazer remarcação pelo Site.</p><span>Se você já trocou seu voucher pelo bilhete</span><p>Se você já trocou seu voucher pelo bilhete na bilheteira da parceira, você deve procurar nosso atendimento online 61 2106-7154, caso não tenha perdido o horário de embarque.</p>"
+    },
+    {
+      "id": "5",
+      "type": "ticket",
+      "title": "Cancelamento e estorno",
+      "content": "<p>Na Gipsyy, você pode cancelar até 3h antes da viagem, a multa é de 2% no caso de pagamento PIX online e dinheiro, e 5% no caso de pagamento em cartão débito ou crédito. Ao iniciar seu processo de cancelamento, você irá visualizar ou será informado(a) sobre a multa e poderá decidir se quer ou não prosseguir com o cancelamento. O estorno do cartão de crédito é feito via OCD em até 30 dias. E o estorno do PIX é realizado direto na conta pela qual foi realizado o PIX em até 3 dias.</p><p>Com menos de 3h antes do horário de embarque, não é possível mais cancelar.</p><p>Abaixo, veja como fazer para cancelar sua viagem.</p><span>Se você recebeu um bilhete assim que realizou a compra</span><p>Se você recebeu seus bilhetes, você não precisaria ir até o guichê da parceira para trocar por bilhete. Neste caso, você pode pode cancelar sua viagem tanto em nosso site ou app, quanto no atendimento Gipsyy WhatsApp 61 2106-7154, até 3h antes do horário de embarque.</p><p>Para saber se você recebeu um bilhete, verifique se você foi instruído a embarcar direto. Se a resposta é sim, você recebeu um bilhete.</p><span>Se você recebeu um voucher assim que realizou a compra e não trocou porum bilhete</span><p>Se você recebeu instruções para ir até o guichê de uma de nossas parceiras, você recebeu um voucher. Neste caso, faça o cancelamento da sua viagem, até 3h antes do embarque, tanto no site quanto no atendimento Gipsyy WhatsApp 61 2106-7154.</p><p>Nossas empresas Eucatur e Gadotti trabalham com Voucher.</p><p>ATENÇÃO: Se sua viagem sai de alguma cidade de Santa Catarina e a sua viagem não é em menos de 3 horas, você deve procurar nosso atendimento Gipsyy WhatsApp 61 2106-7154, pois não é possível fazer cancelamento pelo Site.</p><span>Se você já trocou seu voucher pelo bilhete</span><p>Se você já trocou seu voucher pelo bilhete na bilheteira da parceira e caso sua viagem não seja em menos de 3 horas, você deve procurar nosso atendimento online 61 2106-7154.</p>"
+    },
+    {
+      "id": "6",
+      "type": "ticket",
+      "title": "Perda dos bilhetes",
+      "content": "<span>Viagens interestaduais</span><p>Verifique junto às empresas parceiras a possibilidade de uma segunda emissão. Há empresas parceiras que realizam a segunda via no caso de viagens interestaduais, porém com algumas condições, como por exemplo a apresentação de documentos de identidade (CPF e RG) e somente poderá ser solicitada até o horário de partida da viagem, respeitando o horário de funcionamento da bilheteria. Para mais detalhes e especificidades entrar em contato com a parceira.</p><span>Viagens municipais</span><p>Normalmente nossas parceiras não fazem a emissão de segunda via de passagens de linhas intermunicipais, porém recomendamos entrar em contato diretamente com as parceiras.</p>"
+    }
+  ]
+}

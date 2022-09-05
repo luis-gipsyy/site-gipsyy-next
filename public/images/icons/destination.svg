@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="60px" height="60px" viewBox="0 0 60 60" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>1CABFB11-0C69-4C0B-9D60-DFBF3F8BA549</title>
+    <defs>
+        <filter x="-65.0%" y="-65.0%" width="230.0%" height="230.0%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="5" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="2" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.497990263   0 0 0 0 0.497990263   0 0 0 0 0.497990263  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Main" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Search-results-/-3.1-see-search-result" transform="translate(-1261.000000, -627.000000)">
+            <g id="Group-22" filter="url(#filter-1)" transform="translate(1276.000000, 642.000000)">
+                <circle id="Oval" stroke="#FFFFFF" stroke-width="3" fill="#0B4178" cx="15" cy="15" r="15"></circle>
+                <path d="M10.1552795,22.173913 L9.13043478,22.173913 L9.13043478,7.82608696 L21.4285714,7.82608696 L18.4565217,12.4378882 L21.4285714,17.0496894 L10.1552795,17.0496894 L10.1552795,22.173913 Z M10.1552795,16.0248447 L19.5479814,16.0248447 L17.2267081,12.4378882 L19.5479814,8.85093168 L10.1552795,8.85093168 L10.1552795,16.0248447 Z" id="Icon-Shape" fill="#FFFFFF" fill-rule="nonzero"></path>
+            </g>
+        </g>
+    </g>
+</svg>

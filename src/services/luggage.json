@@ -1,0 +1,46 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "luggage",
+      "title": "Bagagem de mão",
+      "content": "<p>A bagagem de mão, que contém os seus pertences pessoais, pode ser colocada no compartimento superior do seu assento ou debaixo do mesmo. Não deve ultrapassar o peso máximo de 5kg e com dimensões que se adaptem ao porta-embrulho, desde que não sejam comprometidos o conforto e segurança do cliente, e que sejam pertences de uso pessoal.</p> <p>Excedida a franquia acima, <b>haverá cobrança pelo excesso de bagagens.</b> Os preços são determinados pelas empresas parceiras da Gipsyy.</p>"
+    },
+    {
+      "id": "2",
+      "type": "luggage",
+      "title": "Bagagem de bagageiro",
+      "content": "<span>Dimensões e Pesos</span><p>Cada passageiro tem direito ao transporte gratuito de 02 volumes com dimensões máximas de 1 metro em qualquer sentido e volume máximo de 300 decímetros cúbicos cada um, e peso máximo de 30 kg. </p><p>Excedida a franquia acima,<b> haverá cobrança pelo excesso de bagagens.</b> Os preços são determinados pelas empresas parceiras da Gipsyy.</p>"
+    },
+    {
+      "id": "3",
+      "type": "luggage",
+      "title": "Objetos perigosos",
+      "content": "<p>Não transporte em sua bagagem objetos frágeis sem embalagem adequada, líquidos e gases de qualquer espécie, principalmente inflamáveis ou tóxicos.</p>"
+    },
+    {
+      "id": "4",
+      "type": "luggage",
+      "title": "Transporte de bicicletas",
+      "content": "<p>Aconselhamos entrar no site da operadora para entender as regras de transporte de bicicletas. Muitas empresas consideram que o transporte de bicicleta é gratuito (exceto em ônibus de dois andares que possuem bagageiros menores), desde que identificada com o nome do passageiro. Elas normalmente não exigem a apresentação de nota fiscal, desde que a bicicleta já tenha sido utilizada, esteja desmontada, embalada em condições de ser transportada sem oferecer risco de danos à bagagem de outros passageiros. O melhor mesmo é entrar no site da viação operadora para entender as regras.</p>"
+    },
+    {
+      "id": "5",
+      "type": "luggage",
+      "title": "Transporte de objetos de valor",
+      "content": "<p>O transporte de joias ou de dinheiro em espécie em malas não é recomendado e nem é garantido pela empresa em hipótese alguma. Havendo necessidade de transporte de objetos de valor, recomenda-se efetuar o despacho deles, com valor declarado, para fins de cobertura em caso de eventual sinistro. O transporte de grandes quantias de dinheiro não é acobertado por declaração de valor e por seguro e, por isso, deve ser evitado. Carregue apenas a quantia necessária à sua viagem.</p>"
+    },
+    {
+      "id": "6",
+      "type": "luggage",
+      "title": "Transporte de animais",
+      "content": "<p>Aconselhamos entrar em contato com a empresa parceiras. Muitas de nossas parceiras permitem o transporte de animais, mas não é considerado como bagagem. ;-)</p><p> Muitas empresas limitam o peso do animal até 10kg. Provavelmente você terá que comprar uma passagem para seu amiguinho também e este deverá estar na poltrona colada à sua, para cuidar bem do seu bichinho. A única exceção deve ser no caso de cães-guias.</p><p>Ah, e provavelmente deverá ser apresentado, atestado médico veterinário, emitido no período máximo de 10 (dez) dias antes da viagem declarando boa condição de saúde do animal, além da carteira de vacinação atualizada e com o registro de vacinas antirrábica e polivalente. Vale confirmar com a aviação que irá viajar.</p><p>A empresa de aviação ainda pode fazer algumas exigências como manter o animal dentro do contêiner.</p>"
+    },
+    {
+      "id": "7",
+      "type": "luggage",
+      "title": "Extravio e dano de bagagem",
+      "content": "<p>Caso a bagagem sofra algum dano ou extravio, procure imediatamente a bilheteria da aviação parceira mais próxima ou a de destino, e apresente seu bilhete de passagem, ticket de bagagem e documento de identidade.</p><p>Para seu conforto, sugerimos que a bagagem receba uma identificação interna, com os dados pessoais e telefones para contato.</p>"
+    }
+  ]
+}

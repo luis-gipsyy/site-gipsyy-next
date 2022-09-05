@@ -1,0 +1,16 @@
+{
+  "data": [
+    {
+      "id": "1",
+      "type": "children",
+      "title": "Gratuidade",
+      "content": "<p>A Gipsyy, por não ser uma empresa de transporte rodoviário coletivo de passageiros, não concede bilhetes de passagem ou reservas com gratuidades seja para idosos, crianças, ID Jovem, pessoas com deficiências.</p>"
+    },
+    {
+      "id": "2",
+      "type": "children",
+      "title": "Viagem e documentos",
+      "content": "<p>Menores de 6 a 16 anos podem viajar acompanhados por parentes de até 3º grau (mãe, pai, bisavós, avós, tios, irmãos ou sobrinhos maiores de 18 anos, além de guardião ou tutor legal), desde que seja comprovado o parentesco por documentação.</p><p>Caso não exista parentesco entre o menor de 16 anos e o acompanhante, deverá ser apresentada uma autorização escrita e assinada pelo pai, mãe ou tutor legal, com firma reconhecida.</p> <p>Crianças e adolescentes menores de 16 anos não podem viajar desacompanhados dos pais ou responsáveis sem autorização judicial. Essa autorização deve ser feita de próprio punho e precisa ser autenticada em cartório.</p><p>A carteira de identidade ou certidão de nascimento original e autorização judicial caso o menor viaje desacompanhado são os documentos necessários para viagens de menores de 16 anos. Se a criança for acompanhada, só precisa da carteira de identidade ou certidão de nascimento original.</p><p>Adolescentes maiores de 16 anos podem viajar desacompanhados, lembrando sempre que precisam estar com o documento de identificação.</p>"
+    }
+  ]
+}
